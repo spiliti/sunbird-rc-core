@@ -15,7 +15,7 @@
     "handlebars-dateformat": "^1.1.2",
     "handlebars-delimiters": "^1.0.0",
     "jsonwebtoken": "^8.5.1",
-    "jszip": "^3.6.0",
+    "jszip": "^3.8.0",
     "kafkajs": "^1.15.0",
     "node-cache": "^5.1.2",
     "object-hash": "^3.0.0",
